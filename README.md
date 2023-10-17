@@ -9,8 +9,6 @@ Hi I'm Deynner Sanabria, I'm a data systematization student, I love doing web de
 
 - 🌱 I’m currently learning **REACT**.
 
-- 💬 Ask me about **HTML,CSS or JS**.
-
 
 <br>
 <br>

@@ -1,5 +1,6 @@
 <p align="center">
-Hi I'm Deynner Sanabria, I'm a data systematization student, I love doing web devolepment stuff, focused on frontend. 
+Hi I'm Deynner Sanabria, I'm a software developer student from Colombia.
+I'm a little bit lost in this world, but still I'm willing to work.
 </p>
 
 ##
@@ -7,7 +8,7 @@ Hi I'm Deynner Sanabria, I'm a data systematization student, I love doing web de
 
 - 🔭 I’m currently studying **data systematization** at the Distrital University Fransisco Jose de Caldas.
 
-- 🌱 I’m currently learning **REACT**.
+- 🌱 I’m currently learning **BLOCKCHAIN**.
 
 
 <br>

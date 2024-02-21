@@ -8,7 +8,7 @@ I'm a little bit lost in this world, but still I'm willing to work.
 
 - 🔭 I’m currently studying **data systematization** at the Distrital University Fransisco Jose de Caldas.
 
-- 🌱 I’m currently learning **BLOCKCHAIN**.
+- 🌱 I’m currently learning **3D JS TECHNOLOGIES, BACKEND (FUNDAMENTALS AND LANGUAGES)**.
 
 
 <br>

@@ -59,7 +59,6 @@ I'm a little bit lost in this world, but still I'm willing to work.
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
-<br>
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![JSONBin](https://img.shields.io/badge/-JSONBin-008080?style=for-the-badge&logo=jsonbin&logoColor=white)](https://jsonbin.io/)

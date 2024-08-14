@@ -1,14 +1,9 @@
-<p align="center">
-Hi I'm Deynner Sanabria, I'm a software developer student from Colombia.
-I'm a little bit lost in this world, but I'm still willing to grow and work.
-</p>
+
 
 ##
 
 
-- 🔭 I’m currently studying **data systematization** at the Distrital University Fransisco Jose de Caldas.
-
-- 🌱 I’m currently learning **3D JS TECHNOLOGIES, BACK-END (FUNDAMENTALS AND LANGUAGES)**.
+- 🔭 Distrital University Fransisco Jose de Caldas.
 
 
 <br>
@@ -30,13 +25,6 @@ I'm a little bit lost in this world, but I'm still willing to grow and work.
 <div align = "center">
 
 <h2 align="center">🛠️ Languages and Tools</h2>
-
-<details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
-<br>
-  
-[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-</details>
 
 <details open>
 <summary><b>🧰 Backend</b></summary>

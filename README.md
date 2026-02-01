@@ -27,17 +27,19 @@
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 <details open>
-<summary><b>🧰 Backend</b></summary>
+<summary><b>🧰 Programming</b></summary>
 <br>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 </details>
 <details open>
-<summary><b>🗄️ Database</b></summary>
+<summary><b>🗄️ OLTP - Database</b></summary>
 <br>
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL SERVER](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </details>
 
@@ -47,7 +49,6 @@
 
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![JSONBin](https://img.shields.io/badge/-JSONBin-008080?style=for-the-badge&logo=jsonbin&logoColor=white)](https://jsonbin.io/)
 
 </details>
 

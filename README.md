@@ -23,7 +23,7 @@
 <summary><b>Programming</b></summary>
 <br>
 
-![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=30)
+![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=30&color=%23f59e0b)
 ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=30&color=%23f59e0b)
 
 </details>

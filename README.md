@@ -1,26 +1,26 @@
 <br>
 <div align = "center">
     
-![database](https://www.readmecodegen.com/api/social-icon?name=database&size=50&color=%23f59e0b&showText=true&text=DATA+ENGINEERING)        
+![database](https://www.readmecodegen.com/api/social-icon?name=database&size=60&color=%23f59e0b&showText=true&text=DATA+ENGINEERING)        
 
 </div>
 
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 
 <div align = "center">
     
-[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=35&theme=dark&shape=circle&animationDuration=5&color=%23ef4444&showText=true&textColor=%23ef4444&link=rojasdeynner8%40gmail.com)]
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=35&theme=dark&shape=circle&animationDuration=5&color=%233b82f6&showText=true&textColor=%233b82f6&link=www.linkedin.com%2Fin%2Fdeynner-alexander-sanabria-rojas-data-engineering)](www.linkedin.com/in/deynner-alexander-sanabria-rojas-data-engineering)
+![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=30&theme=dark&shape=circle&animationDuration=5&color=%23ef4444&showText=true&textColor=%23ef4444)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=30&theme=dark&shape=circle&animationDuration=5&color=%233b82f6&showText=true&textColor=%233b82f6&link=www.linkedin.com%2Fin%2Fdeynner-alexander-sanabria-rojas-data-engineering)](www.linkedin.com/in/deynner-alexander-sanabria-rojas-data-engineering)
 </div>
 
 <div align = "center">
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 
 <details open>
-<summary><b>🧰 Programming</b></summary>
+<summary><b>Programming</b></summary>
 <br>
 
 ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=30)
@@ -28,7 +28,7 @@
 
 </details>
 <details open>
-<summary><b>🗄️ OLTP - Database</b></summary>
+<summary><b>OLTP - Database</b></summary>
 <br>
 
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=50&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&textColor=%23f59e0b)
@@ -37,11 +37,9 @@
 </details>
 
 <details open>
-<summary><b>💻 Software and Tools</b></summary>
+<summary><b>Software and Tools</b></summary>
 <br>
 
-![aws](https://www.readmecodegen.com/api/social-icon?name=aws&size=30&showText=true)
-![snowflake](https://www.readmecodegen.com/api/social-icon?name=snowflake&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&text=Snowflake&textColor=%23f59e0b)
 ![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&textColor=%23f59e0b)
 ![apacheairflow](https://www.readmecodegen.com/api/social-icon?name=apacheairflow&size=30&bg=%2310b981&theme=dark&shape=circle&animationDuration=5&color=%23ffffff&showText=true&textColor=%23f59e0b)
 ![postman](https://www.readmecodegen.com/api/social-icon?name=postman&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&textColor=%23f59e0b)
@@ -50,15 +48,34 @@
 
 </details>
 
+<details open>
+<summary><b>Cloud Providers</b></summary>
+<br>
+    
+![aws](https://www.readmecodegen.com/api/social-icon?name=aws&size=30&showText=true)
+![snowflake](https://www.readmecodegen.com/api/social-icon?name=snowflake&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&text=Snowflake&textColor=%23f59e0b)
+
+</details>
+
+
+<details open>
+<summary><b>Bi tools</b></summary>
+<br>
+    
+![looker](https://www.readmecodegen.com/api/social-icon?name=looker&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&text=Looker+Studio&textColor=%23f59e0b)
+
+</details>
+
+
 </div>
 
 
 <br>
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+<h2 align="center">More About Me on GitHub</h2>
 
 <details>
-<summary><b>📚 Projects</b></summary>
+<summary><b>Projects</b></summary>
 <br>
 <p align="left">
 <!-- BLOG-POST-LIST:START -->

@@ -10,14 +10,9 @@
 
 <div align = "center">
     
-[![Gmail: Deynner Sanabria](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:rojasdeynn8@gmail.com)&nbsp;
-<br>
-[![Linkedin: Deynner Sanabria](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/deynner-alexander-sanabria-rojas-webdev)
-  
+[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=50&theme=dark&shape=circle&animationDuration=5&color=%23ef4444&showText=true&textColor=%23ef4444&link=rojasdeynner8%40gmail.com)](mailto:rojasdeynn8@gmail.com)&nbsp;
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=50&theme=dark&shape=circle&animationDuration=5&color=%233b82f6&showText=true&textColor=%233b82f6&link=www.linkedin.com%2Fin%2Fdeynner-alexander-sanabria-rojas-data-engineering)](www.linkedin.com/in/deynner-alexander-sanabria-rojas-data-engineering)
 </div>
-
-
-<br>
 
 <div align = "center">
 

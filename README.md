@@ -1,13 +1,10 @@
-
-
-##
-
-
-- 🔭 Distrital University Fransisco Jose de Caldas.
-
-
 <br>
-<br>
+<div align = "center">
+    
+![database](https://www.readmecodegen.com/api/social-icon?name=database&size=50&color=%23f59e0b&showText=true&text=DATA+ENGINEERING)        
+
+</div>
+
 
 <h2 align="center">📫 Connect with me</h2>
 
@@ -26,20 +23,21 @@
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
+
 <details open>
 <summary><b>🧰 Programming</b></summary>
 <br>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=30)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=30&color=%23f59e0b)
+
 </details>
 <details open>
 <summary><b>🗄️ OLTP - Database</b></summary>
 <br>
 
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQL SERVER](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=50&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&textColor=%23f59e0b)
+![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&textColor=%23f59e0b)
 
 </details>
 
@@ -47,8 +45,13 @@
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+![aws](https://www.readmecodegen.com/api/social-icon?name=aws&size=30&showText=true)
+![snowflake](https://www.readmecodegen.com/api/social-icon?name=snowflake&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&text=Snowflake&textColor=%23f59e0b)
+![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&textColor=%23f59e0b)
+![apacheairflow](https://www.readmecodegen.com/api/social-icon?name=apacheairflow&size=30&bg=%2310b981&theme=dark&shape=circle&animationDuration=5&color=%23ffffff&showText=true&textColor=%23f59e0b)
+![postman](https://www.readmecodegen.com/api/social-icon?name=postman&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&textColor=%23f59e0b)
+![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=30&theme=dark&shape=circle&animationDuration=5&color=%23f59e0b&showText=true&textColor=%23f59e0b)
+
 
 </details>
 

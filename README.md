@@ -2,6 +2,8 @@
 <div align = "center">
     
 ![database](https://www.readmecodegen.com/api/social-icon?name=database&size=60&color=%23f59e0b&showText=true&text=DATA+ENGINEERING)        
+Tecnólogo en sistematización de datos, con enfoque en el área de ingeniería de datos. Poseo experiencia traduciendo requerimientos de negocio hasta soluciones robustas, usando herramientas como SQL, Python, Airflow, BI (Looker Studio), Snowflake DWH y servicios en la nube AWS / GCP. Así mismo siguiendo buenas prácticas de arquitectura de datos. Destacó por tener una rápida adaptación al cambio y aprendizaje autónomo; además de poseer buenas habilidades de trabajo en equipo y comunicación activa.
+
 
 </div>
 
